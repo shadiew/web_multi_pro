@@ -1,0 +1,9 @@
+body.rtl #cryptocurency-market-cap-wrapper,
+body.rtl .cmc_coin_details,
+body.rtl .cmc_calculator,
+body.rtl .cmc-chart,
+body.rtl table#cmc_historical_tbl,
+body.rtl #cmc-single-style1,
+body.rtl #cmc-tabbed-area {
+    direction: ltr;
+}
